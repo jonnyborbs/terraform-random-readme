@@ -11,5 +11,5 @@ output "random" {
 }
 
 output "folder" {
-  value = "root"
+  value = 9999
 }
