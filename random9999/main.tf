@@ -11,5 +11,5 @@ output "random" {
 }
 
 output "folder" {
-  value = "testing output again"
+  value = 9999
 }
